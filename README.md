@@ -39,6 +39,8 @@ K-means clustering is a powerful algorithm that is widely used for unsupervised 
 pip install -U scikit-learn
 ```
 
+## Project
+In this project, we're going to see how to preform K-Means Clustering to segregate customers, based on the given data, in the form of optimal clusters with live examples.
 
 ## Contributing
 
